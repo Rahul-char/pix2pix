@@ -1,0 +1,335 @@
+[
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\1.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.1.jpeg",
+                "prompt": "Change background colour to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.2.jpeg",
+                "prompt": "Change the form colour to red"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.3.jpeg",
+                "prompt": "change all text to lavender"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.4.jpeg",
+                "prompt": ""
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.5.jpeg",
+                "prompt": "Change the colour of forgot password to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/1.6.jpeg",
+                "prompt": "add blue colour to login button"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\10.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/10.1.jpeg",
+                "prompt": "Change background color to steelblue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/10.2.jpeg",
+                "prompt": "Change login button colour to grey"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\100.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/100.2.jpeg",
+                "prompt": "change backround color to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/100.3.jpeg",
+                "prompt": "change sign in button color to red"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/100.4.jpeg",
+                "prompt": "change text color of sign in to orange"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\101.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/101.2.jpeg",
+                "prompt": "change the background color to lightblue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/101.3.jpeg",
+                "prompt": "change the card color to yellow"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/101.4.jpeg",
+                "prompt": "change the heading text color to magenta"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/101.5.jpeg",
+                "prompt": "change the box colors to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/101.6.jpeg",
+                "prompt": "change the sign in button color to black"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\102.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/102.2.jpeg",
+                "prompt": "change the background color to lightpink"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/102.3.jpeg",
+                "prompt": "change the heading color to green"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/102.4.jpeg",
+                "prompt": "change the button color to red"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\103.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/103.2.jpeg",
+                "prompt": "change the background color to gold"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/103.3.jpeg",
+                "prompt": "change the button color to grey"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/103.4.jpeg",
+                "prompt": "change heading text color to red"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\104.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/104.2.jpeg",
+                "prompt": "change the background color to beige"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/104.3.jpeg",
+                "prompt": "change the form background color to lightyellow"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/104.4.jpeg",
+                "prompt": "change the email and password text color to coral"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/104.5.jpeg",
+                "prompt": "change the button color to darkcyan"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\105.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/105.2.jpeg",
+                "prompt": "change the background color to lightgreen"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/105.3.jpeg",
+                "prompt": "change the form background color to grey"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/105.4.jpeg",
+                "prompt": "change the heading text color to yellow"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/105.5.jpeg",
+                "prompt": "change the input box background color to deeppink"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/105.6.jpeg",
+                "prompt": "change the login button color to lightpink"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\106.1.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/106.2.jpeg",
+                "prompt": "change the background color to lavender"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/106.3.jpeg",
+                "prompt": "change the form background color to navy"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/106.4.jpeg",
+                "prompt": "change the heading text color to peach"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/106.5.jpeg",
+                "prompt": "change the input box background color to black"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/106.6.jpeg",
+                "prompt": "change the submit color to lightgreen"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\2.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/2.1.jpeg",
+                "prompt": "Change backgrounf to red colour"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/2.2.jpeg",
+                "prompt": "Change the continue button to green colour"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/2.3.jpeg",
+                "prompt": "Change Signin text color to yellow"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/2.4.jpeg",
+                "prompt": "Change form color to gray"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\3.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/3.1.jpeg",
+                "prompt": "Change the backgrounf to beige"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/3.2.jpeg",
+                "prompt": ""
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\4.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/4.1.jpeg",
+                "prompt": "Change the Background color to gray"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/4.2.jpeg",
+                "prompt": "Change the Next button colour to black"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\5.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/5.1.jpeg",
+                "prompt": "Change the background colour to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/5.2.jpeg",
+                "prompt": "Change Send Otp button to green"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/5.3.jpeg",
+                "prompt": "Change Started text to orange"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\6.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/6.1.jpeg",
+                "prompt": "add pink colour to the login form"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/6.2.jpeg",
+                "prompt": "Change Login text to indigo"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/6.3.jpeg",
+                "prompt": "Change Login button color to brown"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/6.4.jpeg",
+                "prompt": "add black colour to forgot password button"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/6.5.jpeg",
+                "prompt": "Change background colour to blue"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\7.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/7.1.jpeg",
+                "prompt": "Change background colour to brown"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/7.2.jpeg",
+                "prompt": "change login form colour to violet"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/7.3.jpeg",
+                "prompt": "Chnage signin button to darkblue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/7.4.jpeg",
+                "prompt": "Change login text colour to black"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\8.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/8.1.jpeg",
+                "prompt": "Change the login form color to yellow"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/8.2.jpeg",
+                "prompt": "Change the submit button colour to blue"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/8.3.jpeg",
+                "prompt": "Change the login to continue text to skyblue"
+            }
+        ]
+    },
+    {
+        "input_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Input\\9.0.jpeg",
+        "outputs": [
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/9.1.jpeg",
+                "prompt": "Add lightgreen color to background"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/9.2.jpeg",
+                "prompt": "Add red colour to forgot your password"
+            },
+            {
+                "output_image": "C:\\Users\\288032\\Documents\\LoginDataset\\Output/9.3.jpeg",
+                "prompt": "Change Log in button colour to lightpink"
+            }
+        ]
+    }
+]
