@@ -1,0 +1,1 @@
+set the logo background color to black
